@@ -329,6 +329,7 @@
 - [OnyX](http://www.titanium.free.fr/) -  Multifunction utility to verify disks and files, run cleaning and system maintenance tasks, configure hidden options and more. ![Freeware][Freeware Icon]
 - [Paparazzi](http://derailer.org/paparazzi/) - A small utility that makes screenshots of webpages. ![Freeware][Freeware Icon]
 - [Paragon NTFS](http://www.paragon-drivers.com/ntfs-mac/) - World fastest NTFS driver.
+- [Peat Flow](https://peatflow.com/en/) - Free screenshots and multi-image paste into any app, including AI chats (works offline), plus Point & Say to mark spots on screen while speaking and get a numbered, cleaned-up prompt.
 - [Picmal](https://picmal.app/) - Convert and compress images, video, audio, and PDFs entirely offline, with Finder, Shortcuts, and Raycast integration.
 - [Pulse](https://www.pulseticker.app/) - Native menu bar market tracker for stocks, cryptocurrencies, indices, ETFs, and portfolio P&L. [![Open-Source Software][OSS Icon]](https://github.com/fatwang2/Pulse) ![Freeware][Freeware Icon]
 - [PureMac](https://github.com/momenbasel/PureMac) - Free and open-source macOS cleaner that removes system caches, Xcode junk, Homebrew cache, and more with no telemetry or network calls. [![Open-Source Software][OSS Icon]](https://github.com/momenbasel/PureMac) ![Freeware][Freeware Icon]
